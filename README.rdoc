@@ -1,4 +1,4 @@
-THIS FORK SIMPLY OVERWRITE DEPENDENCY TO JSON => 1.7
+THIS FORK SIMPLY OVERWRITE DEPENDENCY TO JSON >= 1.7
 
 == Openlibrary 
 {<img src="https://badge.fury.io/rb/openlibrary.png" alt="Gem Version" />}[http://badge.fury.io/rb/openlibrary]
